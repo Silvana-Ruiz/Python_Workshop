@@ -1,5 +1,5 @@
 # Python Workshop
-Exercises to present concepts during the Introductory Python Workshop to female students in seventh, eight, and ninth grade.
+Exercises to present concepts during the Introductory Python Workshop to female students in seventh, eight, and nineth grade.
 There are two files, Rock_Paper_Scissors.py and New_Rock_Paper_Scissors.py. On the first one, a more complex beginner project is found. Whereas, on the second one, an easier project is shown. Both can be used for the workshop but depending on the programming skills seen in the attendants. 
 
 ## Rock, Paper or Scissors
